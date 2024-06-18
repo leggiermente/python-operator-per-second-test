@@ -1,0 +1,4 @@
+D:\Disk\Program-(mers)\Python\test\numOperation\.venv\Scripts\python.exe "D:\Disk\Program-(mers)\Python\test\numOperation\main.py" 
+{1718711718: 426490, 1718711719: 2477681, 1718711720: 2513226, 1718711721: 2485891, 1718711722: 2498629, 1718711723: 2493801, 1718711724: 2465967, 1718711725: 2497755, 1718711726: 2140560}
+
+Process finished with exit code 0
