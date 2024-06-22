@@ -1,4 +1,4 @@
 D:\Disk\Programmers\Python\Introduction\helloWorld\.venv\Scripts\python.exe D:\Disk\Programmers\Python\test\python-operator-per-second-test\source\main.py 
-Number of basic operations in 1 second:  8614257
+Number of basic operations in 1 second:  17724400.89401585
 
 Process finished with exit code 0

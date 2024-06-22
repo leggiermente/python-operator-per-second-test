@@ -1,11 +1,12 @@
-import time
+from time import time
 
 
 # Count the number of basic operations in 1 second
-start_time = time.time()
-count = 0
-
-while time.time() - start_time < 1:
-    count += 1
-
-print(f"Number of basic operations in 1 second: ", count)
+try:
+    start = time()
+    counter = 0
+    while counter < 10000000:
+        counter += 1
+finally:
+    end = time()
+    print("Number of basic operations in 1 second: ", counter/(end-start))
