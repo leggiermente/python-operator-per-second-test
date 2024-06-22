@@ -1,4 +1,4 @@
-D:\Disk\Program-(mers)\Python\test\numOperation\.venv\Scripts\python.exe "D:\Disk\Program-(mers)\Python\test\numOperation\main.py" 
-{1718711630: 576072, 1718711631: 2528855, 1718711632: 2501175, 1718711633: 2353680, 1718711634: 2254955, 1718711635: 2003987, 1718711636: 1979060, 1718711637: 1730398, 1718711638: 2368227, 1718711639: 1703591}
+D:\Disk\Programmers\Python\Introduction\helloWorld\.venv\Scripts\python.exe D:\Disk\Programmers\Python\test\python-operator-per-second-test\source\main.py 
+Number of basic operations in 1 second:  8228232
 
 Process finished with exit code 0
